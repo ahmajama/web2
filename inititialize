@@ -1,0 +1,6 @@
+git init [only need to do this one command once for your assignment]
+git add *
+git commit –m "Fixed the rocket launcher" [alter message and name as appropriate]
+git remote rm origin [just in case your cloud9 workspace still linked to my github]
+git remote add origin https:... your-repo-url.git [specify URL of github repo … do this just once]
+git push –u origin master [login using your own individual github credentials]
